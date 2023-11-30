@@ -1,4 +1,4 @@
-# Vector Space Model for Medical Records Search Engine
+# Vector Space Model for Rekmed Search Engine
 
 ## **Information Retrieval Final Project**
 
@@ -9,6 +9,10 @@ Putu Arva Raysendriya Ersuputra - 21/472606/PA/20312
 Henzel Theodore Putra - 21/475040/PA/20516
 
 Muhammad Alfi Ramadhan - 21/472839/PA/20345
+
+## Overview
+
+This repository contains Python code that implements a vector space model for a universal search engine tailored for Rekmed Website. The vector space model is used to efficiently search and retrieve relevant information from a dataset containing doctor-patient-medicine combinations.
 
 ## Features
 
@@ -89,13 +93,3 @@ The search engine's performance is evaluated using precision and recall for each
 
 - Precision: {precision4}
 - Recall: {recall4}
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- Special thanks to the NLTK and scikit-learn communities for their valuable contributions.
-
-Feel free to adapt this README to better fit your project and provide more details if needed.
